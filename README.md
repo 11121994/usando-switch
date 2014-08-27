@@ -1,5 +1,4 @@
-usando-switch
-=============
+
 #include <iostream>
 using namespace std;
 
